@@ -1,64 +1,111 @@
-[![MasterHead](https://github.com/shudhanidhisonii/shudhanidhisonii/raw/main/Gb.png)](https://porttflio.netlify.app/)
-<h1 align="center">Hi 👋, I'm Shudha Nidhi Soni</h1>
-<h3 align="center">Frontend Developer</h3>
+<!-- ⚡ Shudha Nidhi Soni | Futuristic Tech GitHub Profile -->
 
-<img align="right" alt="Coding" width="400" src="https://github.com/shudhanidhisonii/shudhanidhisonii/raw/main/gitpic-removebg-preview.png" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Hey+👋,+I'm+Shudha+Nidhi+Soni!;Frontend+Developer+💻;Innovator+%7C+Problem+Solver+%7C+Creator+🚀">
+</h1>
 
-- 🔭 I’m currently working on: **MERN Technologies**
-- 🌱 Learning & building with: **React, Redux, Node.js, MongoDB**  
-- 🤝 Looking to collaborate on: [Green Rank](https://github.com/shudhanidhisonii/innovate_X.git)  
-- 🧠 Interested in: Full Stack Development with AI integration.
-- 📫 Reach me at: **imshudhanidhisoni@gmail.com**  
-- ⚡ Fun fact: **"The Humorist Next Door" 😄**  
-- 🎯 Hackathons: Participated in **HACKBMU 6.0, HACKBMU 7.0, Innotech, HACKNOVATE 6.0**
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/shudha-nidhi-soni-5833142a1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  <a href="mailto:imshudhanidhisoni@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40" />
-  </a>
-  <a href="https://instagram.com/shduhanidhi___" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40" />
-  </a>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+---
+
+## 💫 About Me  
+
+✨ **Frontend Developer | Full Stack Aspirant | Tech Explorer**  
+
+I'm **Shudha Nidhi Soni**, a developer who thrives on creativity, logic, and clean aesthetics.  
+I specialize in crafting **modern UIs** and building **performant web experiences** that merge design and technology.  
+
+- 🛠️ Building: **Chat GPT – An intelligent chatbot web app inspired by ChatGPT**  
+- 🌱 Learning: **TypeScript | SaaS | REST & GraphQL APIs**  
+- 💡 Strengths: React, JavaScript, DSA (C++), Scalable Web Design  
+- 🧠 Solved: **550+ LeetCode | 100+ CodeChef**  
+- 🎯 Vision: Full-Stack Engineer with a design-first mindset  
 
 ---
 
-<h3 align="left">💻 Coding Profiles:</h3>
-<p align="left">
-  <a href="https://leetcode.com/ShudhaNidhiSoni/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+## ⚙️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,cpp,git,github,vscode,figma&theme=light" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🤖 **ChatSphere – AI ChatGPT Clone**
+> A full-stack conversational AI web app inspired by ChatGPT — enabling human-like real-time chats with dynamic response streaming.  
+**Stack:** MongoDB, Express.js, React, Node.js (MERN), TailwindCSS, OpenAI API  
+> 💡 Features: AI-based chatting, persistent history, clean UI, and context-aware responses.  
+
+---
+
+### ♟️ **Real-Time Chess – Multiplayer Game**
+> A two-player online chess platform built using **Socket.io** for live gameplay synchronization.  
+**Stack:** React, Node.js, Express, Socket.io, Chess.js  
+> ⚙️ Features: Real-time moves, active user status, move validation, and elegant board design.  
+
+---
+
+### 💚 **GreenRank – Dynamic UI & Authentication System**
+> A modern web app featuring fluid animations and secure user authentication with the **MVC pattern**.  
+**Stack:** React, Framer Motion, Node.js, Express, MongoDB, Bcrypt  
+> 💡 Features: Dynamic animated UI, login/register functionality, and secure backend architecture.  
+
+---
+
+### 🌐 **[Portfolio](https://porttflio.netlify.app/)**  
+> Sleek, interactive showcase of my projects & journey — built with **HTML, CSS, and JavaScript**.  
+
+---
+
+## 🧩 DSA Journey  
+
+- ✅ 550+ LeetCode solutions  
+- ✅ 100+ CodeChef problems  
+- ⚙️ Language of Choice: C++  
+- 🧭 Constant learner & contest participant  
+
+---
+
+## 📈 Coding Profiles  
+
+<p align="center">
+  <a href="https://leetcode.com/u/ShudhaNidhiSoni/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/shudhanidhi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/imshudhanbc7f" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+    <img src="https://img.shields.io/badge/CodeChef-8B5CF6?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+## 🤝 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shudha-nidhi-soni-5833142a1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://porttflio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:imshudhanidhisoni@gmail.com">
+    <img src="https://img.shields.io/badge/Email-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💬 Quote I Live By  
+
+> *“Innovation begins where imagination meets clean code.”* ⚡  
+> — **Shudha Nidhi Soni**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:8B5CF6&height=100&section=footer"/>
 </p>
